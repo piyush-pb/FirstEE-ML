@@ -1,4 +1,3 @@
-# First End-To-End ML Project for Starters [Student Performance Prediction]
 
 ## Goal
 The goal of this project is to predict student performance based on various features like demographics, past academic performance, attendance, and other relevant factors.
